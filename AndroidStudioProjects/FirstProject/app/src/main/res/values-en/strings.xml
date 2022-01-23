@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenFoodFacts</string>
+    <string name="product_barcode">Barcode : %1$s</string>
+    <string name="petits_poits">Petits poits</string>
+    <string name="product_title">Title : %1$s</string>
+    <string name="product_brand" >Brand : %1$s</string>
+    <string name="product_nutriscore">Nutriscore : %1$s</string>
+    <string name="product_calories">Kcal : %1$s</string>
+    <string name="product_pays">Country : %1$s</string>
+    <string name="product_ingredients">Ingrediants : %1$s</string>
+    <string name="allergicSubstances">Allergens : %1$s</string>
+    <string name="additif_substances">Substances : %1$s</string>
+    <string name="product_sold">Sold : %1$s</string>
+    <string name="product_quantity">Qty : %1$s</string>
+    <string name="nutrition_title"> Nutritional guidelines per 100g</string>
+    <string name="product_fat"> %1$s g of Fat / Lipids</string>
+    <string name="product_saturated_fatty_acids" > %1$s g of saturated fatty acids</string>
+    <string name="product_sugar" > %1$s g de sugar</string>
+    <string name="product_salt" > %1$s g de salt</string>
+</resources>

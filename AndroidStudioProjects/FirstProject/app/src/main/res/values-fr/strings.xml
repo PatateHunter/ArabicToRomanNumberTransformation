@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon comparateur</string>
+    <string name="product_barcode">Code-barres : %1$s</string>
+    <string name="cassegrains">CasseGrains : %1$s</string>
+    <string name="petits_poits">Petits poits</string>
+    <string name="product_title">Titre : %1$s</string>
+    <string name="product_brand" >Marque : %1$s</string>
+    <string name="product_nutriscore">Nutriscore : %1$s</string>
+    <string name="product_calories">Kcal : %1$s</string>
+    <string name="product_pays">Pays : %1$s</string>
+    <string name="product_ingredients">Ingredients :%1$s</string>
+    <string name="allergicSubstances">Allergènes : %1$s</string>
+    <string name="additif_substances">Substances : %1$s</string>
+    <string name="product_sold">Vendu : %1$s</string>
+    <string name="product_quantity">Qte : %1$s</string>
+    <string name="nutrition_title"> Repères nutritionnels pour 100g</string>
+    <string name="product_fat"> %1$s g de Matières grasses / Lipides</string>
+    <string name="product_saturated_fatty_acids" > %1$s g d acides gras saturés</string>
+    <string name="product_sugar" > %1$s g de sucres</string>
+    <string name="product_salt" > %1$s g de Sel</string>
+</resources>

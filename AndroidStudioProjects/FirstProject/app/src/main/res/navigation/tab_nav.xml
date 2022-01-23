@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tab_nav"
+    app:startDestination="@id/tab_fiche">
+    <fragment
+        android:id="@+id/tab_fiche"
+        android:name="com.example.firstprojectIchaiChtitski.ProductDetailsSummaryFragment"
+        android:label="Fiche" />
+
+    <fragment
+        android:id="@+id/tab_nutrition"
+        android:name="com.example.firstprojectIchaiChtitski.ProductDetailsNutritionFragment"
+        android:label="Nutrition" />
+
+    <fragment
+        android:id="@+id/tab_tableau"
+        android:name="com.example.firstprojectIchaiChtitski.ProductDetailsSummaryFragment"
+        android:label="Tableau" />
+
+</navigation>
